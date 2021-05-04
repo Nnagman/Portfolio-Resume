@@ -43,7 +43,7 @@
 - [수성아동병원챗봇&관리자페이지](https://pf.kakao.com/_ljXaC)
     - 담당: 챗봇 개발 & 유지보수 및 기능 추가 작업
     - 기술스택: HTML, CSS, JS, PYTHON, PHP, MYSQL, APACHE2
-    - 기간: 2019/03 ~ 2021/04 (개발 및 유지보수 기간)
+    - 기간: 2020/03 ~ 2020/04
     - 인원: 1명
     - 설명
         - 사용자들에게 병원진료 예약을 도와주는 챗봇
@@ -53,7 +53,7 @@
 - [상인정보통](https://pf.kakao.com/_VxhNixb)
     - 담당: 챗봇 개발 & 유지보수 및 기능 추가 작업, 고도화 작업
     - 기술스택: HTML, CSS, JS, PYTHON, PHP, MYSQL, APACHE2, SPRING BOOT, MONGODB, NGINX
-    - 기간: 2019/04 ~ 2021/04 (유지보수 기간)
+    - 기간: 2020/03 ~ 2020/04 ( 기존 작업), 2021/01 ~ 2020/04 ( 고도화 작업 )
     - 인원: 1명 ( ~2020/12 ) -> 3명
     - 설명
         - 사용자들에게 맞춤형 지원사업을 추천 및 검색할 수 있게 해주는 챗봇
@@ -62,77 +62,10 @@
         - 이벤트API를 사용하여 특정시간에 원하는 정보를 알림형태로 사용자들에게 보내기 위해서 crontab 스케줄러를 통해 카카오 서버측으로 요청을 보내는 기능 구현
         - 기존 전임자가 작성한 쿼리 성능을 개선
         - 챗봇에서 사용자들의 행동(블록이동, 버튼클릭)들을 수집, 이를 바탕으로 서비스 개선
-
-### 개인프로젝트 (기여도 100%)
-
-- [HTML문서 10000개 워드 카운팅](https://github.com/lleellee0/Portfolio-Resume/raw/master/%EB%B6%84%EC%82%B0%EB%B0%8F%EB%B3%91%EB%A0%AC%EC%B2%98%EB%A6%AC.zip)
-    - 기술 스택: Java, Linux, Mysql, 분산 및 병렬처리
-    - 기간: 2016/09 ~ 2016/11
-    - 설명
-        - 4개의 서버에 존재하는 10000개의 HTML 문서를 워드카운팅하기 위해 최적화 시키는 것
-        - 중간에 3702초가 걸린 반면 최종적으로는 956초가 걸리도록 분산/최적화
-
-
-- [학과 도서 및 기자재 대출 시스템 (LIVE)](http://202.182.96.36:8080/controller/)
-    - 기술 스택: Java(Spring),
-    - 기간: 2016/07 ~ 2017/02
-    - 설명
-        - NFC(RFID)와 QR Code를 통한 도서 대출/반납 기능
-        - iPhone의 경우 NFC 기능이 되지 않아서 QR Code 기능 제공
-        - ADMIN에서 도서 추가 및 회원 추가 기능
-        - 현재 동작 확인 가능
-
-
-- [Bittrex 매집 체크 봇](https://github.com/lleellee0/bittrex-acc-bot)
-    - 기술 스택: Node.js, MySQL, 크롤링(API 활용)
-    - 기간: 2017/06 ~ 2017/07, 2019/03
-    - 설명
-        - 비트코인 거래소 [Bittrex](https://bittrex.com/)에서 거래 데이터를 가져와 알트코인을 조금씩 매집하고 있는 것을 포착하기 위한 스크립트
-        - 사용자 메뉴얼 제공
-        - Github 11 Stars, 7 Forks
-
-
-- [Tistory-Fraud](https://github.com/lleellee0/tistory-fraud)
-    - 기술 스택: Node.js(puppeteer), 크롤링, 어뷰징, 로그분석
-    - 기간: 2018/12 ~ 2019/01
-    - 설명
-        - 티스토리, 애드핏 대상 광고 시스템 어뷰징
-
-
-
-### 토이프로젝트 (기여도 100%)
-
-- [#C0FFEE](https://rawcdn.githack.com/lleellee0/C0FFEE/5a4701de8c9cf24205e2a4b481b01f0052092bcf/index.html)
-    - 기술 스택: HTML, CSS, jQuery
-    - 기간: 2016/12
-    - 설명
-        - 간단한 색깔(색상 코드표) 맞추기 게임
-
-
-- [Naver-Webtoon-Downloader](https://github.com/lleellee0/naver-webtoon-downloader), [Daum-Webtoon-Downloader](https://github.com/lleellee0/daum-webtoon-downloader), [Youtube-Downloader](https://github.com/lleellee0/youtube-downloader)
-    - 기술 스택: 크롤링, Electron, Node.js, referer 속이기
-    - 기간: 2019/02 ~ 2019/03
-    - 설명
-        - 네이버 웹툰, 다음 웹툰, 유튜브 재생목록을 크롤링하여 다운로드하는 기능 제공
-        - 성인 인증이 필요한 웹툰은 세션 쿠키를 사용자가 넣어서 다운 받을 수 있도록 구현하였음.
-
-
-- [Simple-File-Share](https://github.com/lleellee0/simple-file-share)
-    - 기술 스택: Electron, Node.js, Stream
-    - 기간: 2019/03
-    - 설명
-        - 간단한 대용량 파일 공유/전송
-        - Electron을 통한 GUI 제공, 매우 간단
-
-
-- [Simple-Telegram-notify](https://github.com/lleellee0/simple-telegram-notify)
-    - 기술 스택: Node.js, Telegram(Telebot)
-    - 기간: 2019/01 ~ 2019/03
-    - 설명
-        - 텔레그램 봇을 통한 알림 기능
-        - 봇 채널 구독자 추가/제거 기본 기능 구현
-        - 추가적인 동작 코드 삽입을 위한 틀, 사용방법 제공
-
+    - 고도화
+        -   SPRING BOOT로 다른 챗봇들도 지원가능한 API 서버를 구축
+        -   서비스 특성상 구조가 자주 바뀌는 데이터들이 많아 MONGODB로 변경
+        -   일반사용자, 관계자, 관리자 별 인증 추가 및 사용 범위 제한
 
 ### 외부 활동
 - [네이버블로그](https://blog.naver.com/ckdgh930314)

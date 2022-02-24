@@ -10,4 +10,4 @@
 - [Github](https://github.com/nnagman)
 - nnagman@gmail.com
 
--[Today I Learned, TIL](https://github.com/Nnagman/TIL)
+- [Today I Learned, TIL](https://github.com/Nnagman/TIL)

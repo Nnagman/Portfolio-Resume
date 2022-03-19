@@ -11,3 +11,5 @@
 - nnagman@gmail.com
 
 - [Today I Learned, TIL](https://github.com/Nnagman/TIL)
+
+- [Velog](https://velog.io/@nnagman)
